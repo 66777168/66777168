@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Wilson Westphal
-- 👀 I’m interested in new techonlogies about the devOps world !!!
+- 👀 I’m interested in new technologies about the devOps world !!!
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...wilson.westphal@galp.com / wilson.westphal@gmail.com
